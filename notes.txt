@@ -13,3 +13,4 @@ Edit label warning
 Fix deploy script 
 Update readme notes 
 Add language support 
+Fix language label 
