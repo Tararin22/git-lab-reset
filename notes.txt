@@ -11,3 +11,4 @@ Dev branch work 2
 Update config file 1 
 Edit label warning 
 Fix deploy script 
+Update readme notes 
